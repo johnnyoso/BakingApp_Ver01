@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightPrimary">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerview_recipe_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!--TODO: Put a progress bar-->
+
+    <View
+        android:id="@+id/tablet_device"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"/>
+
+</LinearLayout>

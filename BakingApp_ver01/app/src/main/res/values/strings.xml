@@ -1,0 +1,55 @@
+<resources>
+    <!--The Main Activity Action Bar Title-->
+    <string name="app_name">Baking Time</string>
+
+    <!--The Recipe Information Activity Action Bar Title-->
+    <string name="recipe_information_activity_title">Recipe Name</string>
+
+    <!--JSON Strings-->
+    <string name="recipe_id">id</string>
+    <string name="recipe_name">name</string>
+    <string name="recipe_ingredients">ingredients</string>
+    <string name="recipe_steps">steps</string>
+    <string name="recipe_servings">servings</string>
+    <string name="recipe_image">image</string>
+
+    <!--JSON Recipe Information String for EXTRA-->
+    <string name="extra_recipe_id">EXTRA_RECIPE_ID</string>
+    <string name="extra_recipe_name">EXTRA_RECIPE_NAME</string>
+    <string name="extra_recipe_servings">EXTRA_RECIPE_SERVINGS</string>
+    <string name="extra_recipe_image">EXTRA_RECIPE_IMAGE</string>
+
+    <!--JSON Strings for Ingredients-->
+    <string name="ingredients_quantity">quantity</string>
+    <string name="ingredients_measure">measure</string>
+    <string name="ingredients_ingredient">ingredient</string>
+
+    <!--JSON Ingredient Strings for EXTRA-->
+    <string name="extra_ingredients_list_size">EXTRA_INGREDIENTS_LIST_SIZE</string>
+    <string name="extra_ingredients_id">EXTRA_INGREDIENT_ID</string>
+    <string name="extra_ingredients_quantity">EXTRA_INGREDIENT_QUANTITY</string>
+    <string name="extra_ingredients_measure">EXTRA_INGREDIENT_MEASURE</string>
+    <string name="extra_ingredients_ingredient">EXTRA_INGREDIENT_INGREDIENT</string>
+
+    <!--JSON Strings for Steps-->
+    <string name="step_id">id</string>
+    <string name="step_short_desription">shortDescription</string>
+    <string name="step_description">description</string>
+    <string name="step_video_url">videoURL</string>
+    <string name="step_thumbnail_url">thumbnailURL</string>
+
+    <!--JSON Steps Strings for EXTRA-->
+    <string name="extra_step_list_size">EXTRA_STEP_LIST_SIZE</string>
+    <string name="extra_step_id">EXTRA_STEP_ID</string>
+    <string name="extra_step_short_description">EXTRA_STEP_SHORT_DESCRIPTION</string>
+    <string name="extra_step_description">EXTRA_STEP_DESCRIPTION</string>
+    <string name="extra_step_video_url">EXTRA_STEP_VIDEO_URL</string>
+    <string name="extra_step_thumbnail_url">EXTRA_STEP_THUMBNAIL_URL</string>
+
+    <!--Bundle Strings-->
+    <string name="extra_step_array">EXTRA_STEP_ARRAY</string>
+    <string name="extra_next_step_array">EXTRA_NEXT_STEP_ARRAY</string>
+    <string name="extra_step_complete_list">EXTRA_STEP_COMPLETE_LIST</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
